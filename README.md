@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/forever-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Forever In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-in-love/) |
+| **Get License** | [Official Music Licensing for Forever In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your heartbeat racing through my chest
+> Lying in the shadows where we both confess
+> Every single touch is tearing down the wall
+> Falling for you, honey, and I want it all
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
