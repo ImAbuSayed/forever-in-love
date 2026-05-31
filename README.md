@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/forever-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Forever In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-in-love/) |
+| **Get License** | [Request Licensing for Forever In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/forever-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dfca1193ddc64be72d98d90e02cec4304e109e62b550438bdc9cfad75672afe8` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
